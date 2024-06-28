@@ -3,4 +3,5 @@ I learned Fortran on my own using various resources and wrote my own programs to
 Then I wrote a final term paper that contained my cumulative understanding of the language.
 
 Do not plagiarize if you are undertaking a similar project.
+
 Especially if you're from Hamilton College (https://www.hamilton.edu/student-handbook/studentconduct/honor-code).
